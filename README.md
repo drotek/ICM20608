@@ -1,2 +1,2 @@
 # ICM20608
-6 axis Motiontracking device 
+New generation 6 axis Motiontracking device 
