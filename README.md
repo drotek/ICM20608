@@ -14,3 +14,10 @@ Use the image below to wire your card for I2C use.
 Use the image below to wire your card for Hardware SPI. 
 [![ICM20608 breakout board](http://drotek.com/ftp/photo/drotek%20icm20608%20SPI.jpg)
 
+Repository Contents
+-------------------
+* **/Hardware** - PDF design files
+
+License Information
+-------------------
+The hardware is released under [Creative Commons Share-alike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).  
