@@ -1,4 +1,5 @@
 # ICM20608
+![ICM20608 breakout board](http://www.drotek.com/shop/2696-thickbox_square_zen/imu-6dof-icm20608-invensense-pcb.jpg)
 New generation 6 axis Motiontracking device 
 
 The ICM-20608-G is the latest 6-axis device offered by InvenSense for the mass market. Compared to previous 6-axis devices, the ICM-20608-G offers lower power consumption, lower noise, and a thinner package. The ICM-20608-G offers a duty-cycled operation mode for the gyroscope, that reduces gyroscope power consumption by half or more (depending on ODR) compared to earlier 6-axis devices. It also provides about 20% lower noise than previous devices, and about 17% thinner package compared to previous devices.
